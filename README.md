@@ -3,5 +3,5 @@ I am learning Striver A2Z DSA Sheet. so here I will add my code and my explanati
 
 |Day|Work|
 |:--------:|:--------:|
-|```11-09-2022```|1. Learn the Basics |
-|```11-09-2022```|2. Sorting |
+|`````|1. Learn the Basics |
+|``````|2. Sorting |
