@@ -4,4 +4,4 @@ I am learning Striver A2Z DSA Sheet. so here I will add my code and my explanati
 |Day|Work|Topic|
 |:--------:|:--------:|:--------:|
 |```03-10-2022```| 5 questions solved | 1. Learn the Basics |
-|```04-10-2022```| | |
+|```04-10-2022```| 5 questions solved | ,, |
