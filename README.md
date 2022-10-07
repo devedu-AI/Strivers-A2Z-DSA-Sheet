@@ -14,3 +14,4 @@ I am learning Striver A2Z DSA Sheet. so here I will add my code and my explanati
 |Day|Work|Topic|
 |:--------:|:--------:|:--------:|
 |```06-10-2022```| 5 questions solved | 3. Array - Easy |
+|```07-10-2022```| 5 questions solved | ,, |
