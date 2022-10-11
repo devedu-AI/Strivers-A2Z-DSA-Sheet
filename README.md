@@ -16,3 +16,8 @@ I am learning Striver A2Z DSA Sheet. so here I will add my code and my explanati
 |```06-10-2022```| 5 questions solved | 3. Array - Easy |
 |```07-10-2022```| 5 questions solved | ,, |
 |```08-10-2022```| 6 questions solved | ,, |
+
+|Day|Work|Topic|
+|:--------:|:--------:|:--------:|
+|```10-10-2022```| 3 questions solved | 6.Linked List - 1D |
+|```10-10-2022```| 2 questions solved | 6.Linked List - Medium |
